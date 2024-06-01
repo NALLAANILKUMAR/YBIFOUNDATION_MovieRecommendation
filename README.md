@@ -1,4 +1,3 @@
-https://github.com/NALLAANILKUMAR/Ybifoundation_movierecommadation-
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System project! This project aims to provide personalized movie recommendations using various recommendation algorithms.
